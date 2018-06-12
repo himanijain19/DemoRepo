@@ -1,5 +1,5 @@
 package com.qa.tests;
-/*Author* Himani Jain*/
+
 import org.testng.annotations.Test;
 
 public class LoginTest {
